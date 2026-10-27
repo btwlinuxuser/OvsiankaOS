@@ -1,0 +1,5 @@
+sudo mkarchiso -v \
+  -w /tmp/archiso-work \
+  -o /home/user/Projects/OvsiankaOS/ovsianka/iso_out \
+  /home/user/Projects/OvsiankaOS/ovsianka
+

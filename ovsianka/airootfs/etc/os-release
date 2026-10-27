@@ -1,0 +1,5 @@
+NAME="Ovsianka"
+PRETTY_NAME="Ovsianka Linux"
+ID=ovsianka
+ID_LIKE=arch
+BUILD_ID=rolling
