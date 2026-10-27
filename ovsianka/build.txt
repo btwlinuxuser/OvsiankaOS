@@ -3,3 +3,5 @@ sudo mkarchiso -v \
   -o /home/user/Projects/OvsiankaOS/ovsianka/iso_out \
   /home/user/Projects/OvsiankaOS/ovsianka
 
+
+g++ -std=c++17 -o2 -Wall -Wextra -o ovsiankainstall ovsiankainstall.cpp
