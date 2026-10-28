@@ -1,0 +1,7 @@
+[Unit]
+Description=chmod ovsianka binary
+
+[Service]
+Type=simple
+User=root
+ExecStart=chmod +x /usr/bin/ovsiankainstall && chmod +x /usr/bin/ovsiankafetch
